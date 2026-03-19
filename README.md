@@ -1,11 +1,9 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/prism-offline-banner-dark.svg">
   <img src="assets/prism-offline-banner.svg" alt="Prism Launcher Offline Fork Banner" width="100%">
-</picture>
 </p>
 
 # Prism Launcher Offline
+
 > ⚠️ Unofficial fork — not affiliated with the original Prism Launcher project.
 
 ## 📌 About This Fork
